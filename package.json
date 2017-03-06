@@ -1,0 +1,16 @@
+{
+  "name": "postcss-global2root",
+  "version": "0.0.1",
+  "description": "Moves all nodes found inside a :global rule to the root.",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Héctor Menéndez <etor@gik.mx>",
+  "license": "MIT",
+  "repository": "gikmx/postcss-global2root",
+  "bugs": "http://gikmx/postcss-global2root",
+  "keywords":[
+    "postcss",
+    "global",
+    "move"
+  ]
+}
